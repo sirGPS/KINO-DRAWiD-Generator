@@ -1,6 +1,7 @@
 
 
 
+
 #draw id generator for OPAP KINO DRAWS
     #author GPS
     #date 2022 07 10
@@ -59,12 +60,12 @@ PESOS = 36 # dollarsign
 x = 20 # use in range for 1 to 20 rows
 
 firstrow = (4) # say to excel the first row is 4
-lastrow = (5124)
+lastrow = (6000)
 
 # split the range
 
 
-full = (5124)
+full = (6000)
 half = (full / 2)
 quart = (full / 4)
 
@@ -109,7 +110,4 @@ for c9 in range(int(startrow),int(endrow)):
 
 
     
-
-
-
 
